@@ -1,7 +1,10 @@
 .appComponent{
-    margin:20px;
+    margin:50px;
     /* width: 900px; */
 }
 .btnCreateNewHero{
     margin-bottom: 20px;
+}
+.app{
+    margin-top: 200px;
 }
